@@ -45,3 +45,8 @@ To run this program, you will need:
 1. When you run the program, you will be asked to enter your name and year of birth.
 2. After entering the data, the program will calculate your age and display a message indicating whether you are a minor, an adult, or a senior.
 
+## Video
+
+[Screencast from 2024-09-27 15-00-16.webm](https://github.com/user-attachments/assets/761c33a4-a4a1-4d1a-aa1d-e5cede53dd5c)
+
+
