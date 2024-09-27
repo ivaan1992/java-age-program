@@ -27,7 +27,7 @@ To run this program, you will need:
     ```
 2. Navigate to the directory containing the file:
     ```bash
-    cd age-calculator-program
+    cd AgeProgram
     ```
 
 3. Compile the `AgeProgram.java` file using `javac`:
